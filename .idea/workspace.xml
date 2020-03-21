@@ -4,12 +4,13 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="580" />
-    <option name="y" value="44" />
+    <option name="x" value="136" />
+    <option name="y" value="36" />
     <option name="width" value="1100" />
     <option name="height" value="938" />
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
