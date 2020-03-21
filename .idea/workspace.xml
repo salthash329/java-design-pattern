@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b0d7b15-b729-4906-873f-48eecb0abe7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/Aggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/BookShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/BookShelfIterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/BookShelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/BookShelf.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,11 +48,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/BookShelf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+            <state relative-caret-position="120">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/BookShelfIterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -71,6 +78,7 @@
         <option value="$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/Iterator.java" />
         <option value="$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/Book.java" />
         <option value="$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/BookShelf.java" />
+        <option value="$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/BookShelfIterator.java" />
       </list>
     </option>
   </component>
@@ -237,8 +245,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/BookShelf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        <state relative-caret-position="120">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator/com.salt.design.parttern/src/main/java/BookShelfIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
         </state>
       </provider>
     </entry>

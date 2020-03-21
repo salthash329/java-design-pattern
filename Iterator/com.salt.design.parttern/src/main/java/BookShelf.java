@@ -12,6 +12,15 @@ public class BookShelf implements Aggregate{
 
     public void appendBook(Book book){
         this.books[last] = book;
+        last++;
+    }
+
+    public int getLength(){
+        return last;
+    }
+
+    public Iterator iterator(){
+        return new BookShelfIterator(this);
     }
 
 }
