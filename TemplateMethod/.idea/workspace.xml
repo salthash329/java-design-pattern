@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce81218c-a083-4bc8-9ea2-7f7890206479" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AbstractDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AbstractDisplay.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -33,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/AbstractDisplay.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -171,7 +170,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/AbstractDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
