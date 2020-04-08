@@ -6,11 +6,11 @@ public class Main {
         AbstractDisplay d2 = new StringDisplay("Hello, World");
         AbstractDisplay d3 = new StringDisplay("こんにちは。");
 
-
-        
         d1.display();
         d2.display();
         d3.display();
+
+        
 
     }
 }
