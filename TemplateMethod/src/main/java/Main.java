@@ -10,7 +10,5 @@ public class Main {
         d2.display();
         d3.display();
 
-        
-
     }
 }
