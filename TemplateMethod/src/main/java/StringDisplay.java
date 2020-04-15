@@ -22,7 +22,6 @@ public class StringDisplay extends AbstractDisplay {
     public void close() {
         printLine();
     }
-
     
     private void printLine(){
 
