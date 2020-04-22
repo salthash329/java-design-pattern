@@ -23,7 +23,7 @@ public class StringDisplay extends AbstractDisplay {
         printLine();
     }
 
-    
+
     private void printLine(){
 
         System.out.print("+");
